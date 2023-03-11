@@ -28,7 +28,7 @@ class Person < Nameable
     @age >= 18
   end
 
-  def add_rentals(rental)
-    @rentals.push(rental)
+  def add_rental(book, date)
+    Rental.new(date, book, self)
   end
 end
