@@ -74,7 +74,7 @@ In order to run this project you need:
 In desired folder or directory in the CLI, run the command:
 
 ```JavaScipt
-cd clone https://github.com/atatm/school library.git
+cd clone https://github.com/atatm/school-library3.git
 ```
 Navigate into the cloned folder or repository by running the command:
 ```JavaScript
@@ -117,7 +117,7 @@ You are all set up!
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/atatm/school library.git).
+Feel free to check the [issues page](https://github.com/atatm/school-library3.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
